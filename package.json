@@ -1,0 +1,31 @@
+{
+  "name": "programdevcraftsman",
+  "version": "1.0.2",
+  "description": "programdevcraftsman",
+  "type": "module",
+  "main": "programdevcraftsman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filpobelinda/programdevcraftsman"
+  },
+  "website": "https://github.com/filpobelinda/programdevcraftsman.git",
+  "keywords": [
+    "programdevcraftsman"
+  ],
+  "author": "filpobelinda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filpobelinda/programdevcraftsman/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/filpobelinda/programdevcraftsman#readme",
+  "dependencies": {
+    "codecraftwhiz": "1.0.2"
+  }
+}
